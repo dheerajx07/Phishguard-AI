@@ -1,0 +1,5 @@
+{
+  "name": "PhishGuard AI: Real-Time Threat Intelligence",
+  "description": "A research-grade security platform detecting phishing, behavioral anomalies, and session hijacking using real-time AI heuristics.",
+  "requestFramePermissions": []
+}
